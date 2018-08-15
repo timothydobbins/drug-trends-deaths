@@ -6,6 +6,6 @@ Thanks to Lauren Moran and Shell McConville from the Australian Bureau of Statis
 
 Please visit [Drug Trends](https://ndarc.med.unsw.edu.au/program/drug-trends) for more information, including [methods](https://ndarc.med.unsw.edu.au/program/drug-trends) and downloadable [slide deck](https://ndarc.med.unsw.edu.au/program/drug-trends).
 
-Source code for these visualisations is available at 
+Source code for these visualisations is available at [https://github.com/timothydobbins/drug-trends-deaths](https://github.com/timothydobbins/drug-trends-deaths).
 
 Contact us at [drugtrends@unsw.edu.au](mailto:drugtrends@unsw.edu.au).
