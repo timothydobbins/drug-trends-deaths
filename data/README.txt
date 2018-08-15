@@ -1,3 +1,5 @@
+Note: Data are not stored on github for confidentiality reasons
+
 Deaths data for graphing are based on the ABS sheet:
  Data/Original/NDARC Data supply, 2018 second supply.xlsx
 
