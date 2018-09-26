@@ -41,3 +41,5 @@ rsconnect/
 *.xlsx
 *.tsv
 .Rproj.user
+
+\.DS_Store
